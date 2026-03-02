@@ -1,6 +1,6 @@
 ## OII eu sou a Adriele!
 
-🌱 Aprendendo a programação do zero.
+🌱 Aprendendo a programar do zero.
 
 
 
